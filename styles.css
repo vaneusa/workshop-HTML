@@ -1,13 +1,22 @@
 h1 {
-    color: white;
+    color: black;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
 }
-h3{color: white;}
+h3{
+    color: black;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+
+}
 body{
-    background-color: black
+    background-image: url(src/paozinhobackground.png);
+    background-repeat:repeat;
 }
 h2{
-    color: white;
+    color: black;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
 }
 p{
-    color: white;
+    color: black;
+    font-size: large;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.986);
 }
